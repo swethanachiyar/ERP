@@ -1,0 +1,24 @@
+.navbar {
+       background-color:black;       
+}
+
+.erp-navbar{
+    margin-bottom:80px;
+}
+
+/* --------------nav bar format----------------- */
+.navbar .nav-item .nav-link{
+    font-weight:600;
+    font-size:18px;
+    cursor: pointer;
+    padding-left:10px;
+    color:white;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color:#61AD0C;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    color:#61AD0C;
+}

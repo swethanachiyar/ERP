@@ -1,0 +1,35 @@
+.ordermanagement .heading1{
+    background-color: green;
+    color: black;
+    font-size:30px;
+    font-weight: 600;
+    height:80px;
+    line-height: 80px;
+    margin: 0 50px;
+    border-radius: 5px;
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+.ordermanagement .heading2{
+    background-color: black;
+    color:white;
+    font-size:20px;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+    margin:0 0 20px 0;   
+}
+
+.ordermanagement label{
+    width: 100%;
+    font-size: 16px;
+    font-weight: 600;
+    color: gray;
+    margin:10px 0 2px 0;
+}
+
+.ordermanagement input{
+width: 100%;
+height:35px;
+}

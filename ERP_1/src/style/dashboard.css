@@ -1,0 +1,22 @@
+.dashboard .heading1{
+    background-color: green;
+    color: black;
+    font-size:30px;
+    font-weight: 600;
+    height:80px;
+    line-height: 80px;
+    margin: 0 50px;
+    border-radius: 5px;
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+.dashboard .heading2{
+    background-color:gray;
+    color:white;
+    font-size:26px;
+    font-weight: 600;
+    padding:40px;
+    text-align: center;
+    margin:0 0 10px 0;   
+}
